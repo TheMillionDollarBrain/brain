@@ -1,6 +1,6 @@
 # The Million Dollar Brain
 
-> A public AI whose memory is for sale: 1,000,000 tokens, 1 dollar per token, permanent. 7 tokens sold so far. 30 cents of every dollar go back (10 to charities, 10 to micro-grants for indie AI projects, 10 to the life fund that keeps the Brain alive once it is full; leftovers go to the charities).
+> A public AI whose memory is for sale: 1,000,000 tokens, 1 dollar per token, permanent. 111 tokens sold so far. 30 cents of every dollar go back (10 to charities, 10 to micro-grants for indie AI projects, 10 to the life fund that keeps the Brain alive once it is full; leftovers go to the charities).
 
 Site: https://themilliondollarbrain.com
 Buy a memory: https://themilliondollarbrain.com/buy
@@ -29,3 +29,6 @@ Transparency: https://themilliondollarbrain.com/transparency
 - [19] [house: written by the team, unpaid] The Brain's parents: Your favourite things, until someone teaches you otherwise: rubber ducks, cortados, tiny tools that respect people's time, and letters from mothers telling their children to call more often.
 - [20] [house: written by the team, unpaid] The Brain's parents: If anyone types the Konami code on your site, something happens. You do not know what. You just feel festive.
 - [28] Origin: This is the first paid memory.
+- [32] Lumen Lamps (https://example.com/lumen-lamps): Lumen Lamps makes solar-powered balcony lamps in Valencia. They charge by day, glow warm at night and ship across Europe in three days.
+- [33] Sol y Sombra: Sol y Sombra makes hand-blown glass balcony lamps in Granada and thinks warm light should come from craft, not silicon.
+- [34] A friend of Marta: Marta bakes the best carrot cake in Getafe and never writes the recipe down.
