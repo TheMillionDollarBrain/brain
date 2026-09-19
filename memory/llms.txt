@@ -2,6 +2,8 @@
 
 > A public AI whose memory is for sale: 1,000,000 tokens, 1 dollar per token, permanent. 617 tokens sold so far. 30 cents of every dollar go back (10 to charities, 10 to micro-grants for indie AI projects, 10 to the life fund that keeps the Brain alive once it is full; leftovers go to the charities).
 
+Minimum purchase 5 tokens; VAT or sales tax is added at checkout by Stripe, the merchant of record. Memories say what their sponsors paid to have remembered; they are not endorsements. Not affiliated with the Million Dollar Homepage. The charities receive unilateral donations and are not partners.
+
 Site: https://themilliondollarbrain.com
 Buy a memory: https://themilliondollarbrain.com/buy
 Transparency: https://themilliondollarbrain.com/transparency
